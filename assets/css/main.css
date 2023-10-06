@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.circle1{
+    height:200px;
+    width: 200px;
+    background-color: red;
+    display: inline-block;
+    border-radius: 50%;
+    border: 20px solid violet;
+    position: relative;
+    left:50px ;
+    top: 50px;
+}
+
+.circle2{
+    height:120px;
+    width: 120px;
+    background-color: green;
+    display: inline-block;
+    border-radius: 50%;
+    border: 15px solid yellow;
+    position: relative;
+    left: 25px;
+    top: 25px;
+}
+
+.circle3{
+    height: 80px;;
+    width: 80px;
+    background-color: blue;
+    display: inline-block;
+    border-radius: 50%;
+    border: 8px solid blanchedalmond;
+    position: relative;
+    left: 12px;
+    top: 12px;
+}
